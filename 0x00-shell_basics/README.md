@@ -8,3 +8,5 @@
 8th script - Move the file betty from /tmp/ to /tmp/my_first_directory.
 9th script - Deletes the file betty.
 10th script - Deletes the directory my_first_directory that is in the /tmp directory.
+11th script - Changes the working directory to the previous one.
+
