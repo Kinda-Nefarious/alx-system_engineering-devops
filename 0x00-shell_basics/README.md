@@ -6,3 +6,5 @@
 6th script - Display current directory contents in long format with user and group IDs displayed numerically and hidden files.
 7th script - Creates a directory named my_first_directory in the /tmp/ directory.
 8th script - Move the file betty from /tmp/ to /tmp/my_first_directory.
+9th script - Deletes the file betty.
+
