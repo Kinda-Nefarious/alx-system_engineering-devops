@@ -3,3 +3,4 @@
 3rd script - Changes the working directory to the user’s home directory.
 4th script - Displays current directory contents in a long format.
 5th script - Display current directory contents, including hidden files. (Long format)
+6th script - Display current directory contents in long format with user and group IDs displayed numerically and hidden files
