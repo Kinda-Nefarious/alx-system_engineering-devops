@@ -10,3 +10,4 @@
 10th script - Deletes the directory my_first_directory that is in the /tmp directory.
 11th script - Changes the working directory to the previous one.
 12th script - Lists all files in the current directory and the parent of the working directory and the /boot directory in this order, inlong format.
+13th script - Prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
