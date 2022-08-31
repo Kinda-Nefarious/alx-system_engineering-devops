@@ -17,3 +17,4 @@
 17th script - Deletes all files in the current working directory that end with the character ~.
 18th script - Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
 19th script - Write a command that lists all the files and directories of the current directory, separated by commas (,).
+20th script - Create a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
