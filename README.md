@@ -1,2 +1,2 @@
-Shell basics project.
+DevOps project.
 Has various scripts.
