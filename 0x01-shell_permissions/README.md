@@ -6,3 +6,4 @@
 * 6th script - Adds execute permission to the owner of the file hello.
 * 7th script - Adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
 * 8th script - Adds execution permission to the owner, the group owner and the other users, to the file hello.
+* 9th script - Sets the permission to the file hello as owner and group no permissions. Other has all the permissions.
