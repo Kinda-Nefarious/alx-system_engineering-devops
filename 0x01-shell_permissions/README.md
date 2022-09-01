@@ -8,4 +8,5 @@
 * 8th script - Adds execution permission to the owner, the group owner and the other users, to the file hello.
 * 9th script - Sets the permission to the file hello as owner and group no permissions. Other has all the permissions.
 * 10th script - Sets the mode of the file hello to this: -rwxr-x-wx.
-* 11th script - Sets the mode of the file hello the same as olleh’s mode. 
+* 11th script - Sets the mode of the file hello the same as olleh’s mode.
+* 12th script - Adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed. 
