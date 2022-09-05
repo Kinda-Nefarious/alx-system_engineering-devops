@@ -18,5 +18,7 @@
 * 18th script - Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 * 19th script - Display all lines of the file /etc/ssh/sshd_config starting with a letter.
 * 20th script - Replace all characters A and c from input to Z and e respectively.
-* 21th script - Removes all letters c and C from input.
-* 22th script - Reverses its input.   
+* 21st script - Removes all letters c and C from input.
+* 22nd script - Reverses its input.
+* 23rd script - Displays all users and their home directories, sorted by users.
+* 24th script -   
