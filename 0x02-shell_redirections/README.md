@@ -11,4 +11,5 @@
 * 11th script - Deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
 * 12th script - Counts the number of directories and sub-directories in the current directory. (Including hidden files)
 * 13th script - Displays the 10 newest files in the current directory.
-* 14th script -
+* 14th script - Takes a list of words as input and prints only words that appear exactly once.
+* 15th script - 
