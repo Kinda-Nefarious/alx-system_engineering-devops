@@ -21,4 +21,7 @@
 * 21st script - Removes all letters c and C from input.
 * 22nd script - Reverses its input.
 * 23rd script - Displays all users and their home directories, sorted by users.
-* 24th script -   
+* 24th script - Finds all empty files and directories in the current directory and all sub-directories.
+* 25th script - Lists all the files with a .gif extension in the current directory and all its sub-directories.
+* 26th script - Decodes acrostics that use the first letter of each line.
+* 27th script - Parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.  
