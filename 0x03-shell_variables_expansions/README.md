@@ -11,4 +11,8 @@
 * 11th script - Displays the result of BREATH to the power LOVE.
 * 12th script - Converts a number from base 2 to base 10.
 * 13th script - Prints all possible combinations of two letters, except oo.
-* 14th script - Pints a number with two decimal places, followed by a new line.
+* 14th script - Prints a number with two decimal places, followed by a new line.
+* 15th script - Converts a number from base 10 to base 16.
+* 16th script - Encodes and decodes text using the rot13 encryption. Assume ASCII.
+* 17th script - Prints every other line from the input, starting with the first line.
+* 18th script - Adds the two numbers stored in the environment variables WATER and STIR and prints the result.
